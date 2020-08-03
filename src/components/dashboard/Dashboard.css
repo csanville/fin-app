@@ -1,3 +1,9 @@
 .Dashboard{
     background-color: aqua;
+    height: 100%;
+    width: 100%;
+}
+.Section{
+    background-color: blue;
+    color: white;
 }
